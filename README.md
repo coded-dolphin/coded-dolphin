@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/111633295/186071097-04ccded0-cea2-4d51-a4e0-6fd176835164.png)
-
 - 👋 Hi, I’m @coded-dolphin
 - 👀 I’m interested in app deveopment
 - 🌱 I’m currently learning flutter
