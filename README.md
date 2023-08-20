@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coded-dolphin
-- 👀 I’m interested in app deveopment
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in web deveopment
+- 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on nothing right of now
 - 📫 How to reach me nepalsarbagya69@gmail.com
 
